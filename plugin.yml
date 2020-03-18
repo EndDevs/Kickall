@@ -1,0 +1,8 @@
+name: GGKickall
+author: Aleondev
+version: 1.1.0
+api: 3.0.0, 4.0.0
+main: Aleondev\Main
+commands:
+  kickall:
+    description: bBedrockfMine eKickall 0By Aleondev
